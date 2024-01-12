@@ -1,7 +1,8 @@
 <p align="center">
   <h1 align="center">sushi.io</h1>
-  <p align="center">A landing page for Japanese foods. Mainly I focus on UI, to showcase my CSS and the way of writing CSS using BEM Methodology.</p>
-</p>
+  <h3 align="center">Introducing "Sushi.io" – an aesthetically pleasing landing page for a Japanese restaurant. 
+   <br> Crafted with HTML and CSS, the project serves as a canvas for showcasing advanced CSS techniques, including the implementation of the BEM methodology. 
+    <br> Immerse yourself in the art of UI design, highlighting the beauty of simplicity and the power of HTML5's new module functionality. 🍣✨</h3>
 
 
 ## Tech Stack
